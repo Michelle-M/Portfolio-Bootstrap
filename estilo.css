@@ -1,0 +1,35 @@
+.about, .presentacion {
+    background-color: #18BC9C;
+}
+
+.navbar, .footer {
+    background-color: #2C3E50;
+}
+
+.display-3 {
+    font-weight: bolder;
+    color: white;
+}
+
+.white {
+    width: 200px;
+    border: white 2px solid;
+}
+.black {
+    width: 200px;
+    border: #2C3E50 2px solid;
+}
+
+.tp {
+    color: #2C3E50;
+    font-weight: 700;
+}
+
+p {
+    color: white;
+    font-weight: 600;
+}
+
+.lead {
+    font-size: 24px;
+}
